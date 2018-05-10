@@ -7,4 +7,4 @@
  * Released under the Simplified BSD.
  */
 
-rootProject.name = 'arcana-v0.1'
+rootProject.name = 'arcana-xnat-plugin'
